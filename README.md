@@ -5,5 +5,5 @@
 Time manager built in c
 
 # Includes
-`Timer`
+`Timer`<br>
 `Stop Watch`
